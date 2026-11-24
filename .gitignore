@@ -1,0 +1,16 @@
+# Compiled objects and binaries
+*.o
+swarm_sim
+test_swarm
+screenshot.ppm
+
+# LaTeX intermediate build artifacts
+report/*.aux
+report/*.bbl
+report/*.blg
+report/*.log
+report/*.out
+report/*.toc
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
